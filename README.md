@@ -18,5 +18,5 @@
  
 <div>
   <a href="https://instagram.com/natyzss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="[www.linkedin.com/in/natália-vitória-49005328b](https://www.linkedin.com/in/nat%C3%A1lia-vit%C3%B3ria-49005328b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/natália-vitória-49005328b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
